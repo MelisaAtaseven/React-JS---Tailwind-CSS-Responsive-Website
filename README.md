@@ -1,3 +1,5 @@
+# React-JS---Tailwind-CSS-Responsive-Website
+
 React JS ve Tailwind CSS konularında kendimi geliştirirken, responsive bir web sitesi oluşturdum. Bu süreçte, React JS'in güçlü bileşen tabanlı yapısını kullanarak web sitesinin karmaşıklığını yönettim ve Tailwind CSS'in hızlı ve esnek tasarım sistemini kullanarak modern ve kullanıcı dostu bir arayüz oluşturdum. Responsive tasarımı sağlamak için Tailwind CSS'in hazır sınıflarını kullanarak, web sitesinin farklı ekran boyutlarında ve cihazlarda çalışmasını sağladım. Bu deneyim, beni hem React JS hem de Tailwind CSS alanında daha da geliştirmeye teşvik etti.
 
 Projenin canlı halini görmek için [React Finance App]( https://react-js-tailwind-css-responsive-website-gf3b.vercel.app/).
